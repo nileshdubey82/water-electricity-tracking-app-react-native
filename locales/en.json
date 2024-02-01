@@ -1,0 +1,14 @@
+{
+    "change-language": "Change language",
+    "app-logo": "WATEROELECTRIC",
+    "appName": "Water and Electricity Tracking App",
+    "track-your":"Track Your water And Electricity",
+    "main-desc":"Monitor your water consumption, amperes, voltage, and other related information using this app.",
+    "login-text":"LOGIN",
+    "pro-name":"User Name",
+    "pro-mobile":"Registered Mobile",
+    "pro-address":"Address",
+    "pro-device-id":"Device Id",
+    "pro-changepass":"Change Your password",
+    "pro-logout":"LOG-OUT"
+  }
